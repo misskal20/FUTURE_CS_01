@@ -1,4 +1,5 @@
 Vulnerability Assessment Report – testphp.vulnweb.com Web Application
+
 📌 Overview
 
 This repository contains the deliverables for Cyber Security Task 1 (2026) under the Future Interns Cyber Security Internship Program.
@@ -15,6 +16,7 @@ Assessment Type: Passive Vulnerability Assessment (Read-Only Scope)
 Assessment Date: February 2026
 
 🎯 Assessment Scope
+
 ✔ In-Scope
 
 Publicly accessible web pages
@@ -31,6 +33,7 @@ Network exposure analysis (port scanning)
 
 Server information disclosure checks
 
+
 ❌ Out-of-Scope
 
 Authentication bypass attempts
@@ -43,6 +46,7 @@ Denial-of-Service (DoS) testing
 
 Any intrusive or service-disrupting actions
 
+
 🛠️ Tools Used
 
 The following tools were used during the assessment:
@@ -54,6 +58,7 @@ OWASP ZAP (Passive Scan) – Identification of security misconfigurations withou
 Browser Developer Tools – HTTP header and client-side security inspection
 
 Canva – Professional formatting and preparation of the final PDF report
+
 
 🔎 Summary of Key Findings
 
@@ -73,9 +78,11 @@ Unencrypted HTTP communication
 
 The overall risk level of the application was classified as Medium, based on the combined impact of the identified issues.
 
+
 📄 Deliverable
 
 The complete Vulnerability Assessment Report is available in this repository as a professionally designed PDF document.
+
 
 ⚠ Disclaimer
 
